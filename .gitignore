@@ -7,3 +7,4 @@ data/Data_MIMIC/
 data/*.ipynb
 data/*.pkl
 *.ipynb_checkpoints
+*__pycache__*
