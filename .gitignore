@@ -3,3 +3,7 @@
 venv_*
 data/*.csv
 notebooks/Untitled*
+data/Data_MIMIC/
+data/*.ipynb
+data/*.pkl
+*.ipynb_checkpoints
